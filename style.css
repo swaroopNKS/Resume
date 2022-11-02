@@ -1,0 +1,33 @@
+*{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#profileImg{
+    position: absolute;
+    right: 150px;
+}
+#footer{
+    background-color: lightgrey;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+iframe{
+    position: relative;
+    left: 800px;
+    top: -45px;
+}
+#insideBox{
+    background-color: rgb(161, 160, 160);
+    position: relative;
+    top: 36px;
+    width: 500px;
+    height: 90px;
+}
+#heading{
+    background-color: lightgrey;
+    margin-bottom: 0px;
+}
+#linkl{
+    display: block;
+}
